@@ -1,0 +1,30 @@
+2026-04-29 18:35:12,174 [INFO] ============================================================
+2026-04-29 18:35:12,176 [INFO] Job Scraper — Fresher & Internship Focus
+2026-04-29 18:35:12,177 [INFO] Collecting jobs from last 7 days
+2026-04-29 18:35:12,177 [INFO] ============================================================
+2026-04-29 18:35:12,178 [INFO] Scraping RemoteOK API...
+2026-04-29 18:35:12,871 [WARNING] robots.txt disallows: https://remoteok.com/api
+2026-04-29 18:35:12,871 [INFO] Scraping Arbeitnow RSS feed...
+2026-04-29 18:35:16,403 [INFO] Arbeitnow: found 0 fresher jobs
+2026-04-29 18:35:16,404 [INFO] Scraping Himalayas RSS feed...
+2026-04-29 18:35:18,272 [INFO] Himalayas: found 5 fresher jobs
+2026-04-29 18:35:18,272 [INFO] Scraping WeWorkRemotely RSS feeds...
+2026-04-29 18:35:25,581 [INFO] WeWorkRemotely: found 6 fresher jobs
+2026-04-29 18:35:25,582 [INFO] Total raw records: 11
+2026-04-29 18:35:25,856 [INFO] 
+ Saved 11 jobs to 'fresher_jobs.csv'
+2026-04-29 18:35:25,874 [INFO] 
+Breakdown by source:
+source
+WeWorkRemotely    6
+Himalayas         5
+2026-04-29 18:35:25,878 [INFO] 
+Job Type breakdown:
+job_type
+Internship    7
+Full-time     4
+2026-04-29 18:35:25,885 [INFO] 
+Work Mode breakdown:
+work_mode
+Remote           6
+Not Specified    5
