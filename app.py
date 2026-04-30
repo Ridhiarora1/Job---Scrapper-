@@ -13,7 +13,7 @@ from datetime import datetime
 
 app = Flask(__name__)
 CSV_PATH = Path("freshjobs.csv")
-SCRAPER  = Path("freshhire_scraper.py")
+SCRAPER  = Path("scraper.py")
 
 scraper_status = {"running": False, "msg": ""}
 
